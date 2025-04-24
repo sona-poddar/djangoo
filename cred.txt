@@ -1,0 +1,5 @@
+pip install django
+django-admin
+cd crm
+python manage.py startproject crm
+python manage.py startapp accounts
